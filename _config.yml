@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiang Zhang"
-  pronouns         : "he/him" # example: "she/her"  
+  pronouns         : # "he/him" # example: "she/her"  
   bio              : "Undergraduate @Sichuan University \n Incoming Master @Zhejiang University ICSoft Lab"
   location         : "Chengdu, Sichuan, China"
   employer         : "Sichuan University"
