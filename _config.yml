@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yiang Zhang"
 description              : &description "personal description"
 url                      : https://no1res.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "No1res/No1res.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Yiang Zhang"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Undergraduate @Sichuan University \n Incoming Master @Zhejiang University ICSoft Lab"
+  location         : "Chengdu, Sichuan, China"
+  employer         : "Sichuan University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhangyiang.scu@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
